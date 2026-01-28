@@ -7,6 +7,7 @@ The goal is to transform raw transactional data into actionable business insight
 The project demonstrates an end-to-end data analytics workflow, making it suitable for data analyst and business analyst roles.
 
 🔄 Project Workflow / Steps
+
 1️⃣ Data Loading
 
 Loaded the CSV file into Python using Pandas.
@@ -19,11 +20,11 @@ Analyzed customer demographics (age, gender, location).
 
 Studied purchase trends across:
 
-Product categories
+     Product categories
 
-Seasons
+     Seasons
 
-Subscription status
+     Subscription status
 
 Examined the impact of discounts and promo codes.
 
@@ -43,15 +44,15 @@ Imported the cleaned dataset into MySQL.
 
 Wrote SQL queries to:
 
-Calculate total and average purchase amounts
+    Calculate total and average purchase amounts
 
-Analyze category-wise and season-wise sales
+    Analyze category-wise and season-wise sales
+     
+    Compare subscribed vs non-subscribed customers
 
-Compare subscribed vs non-subscribed customers
+    Identify high-value and frequent customers
 
-Identify high-value and frequent customers
-
-Analyze payment and shipping preferences
+    Analyze payment and shipping preferences
 
 5️⃣ Power BI Dashboard
 
